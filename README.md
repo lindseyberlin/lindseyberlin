@@ -2,7 +2,7 @@
 
 Hi there!
 
-I'm a Data Science Consultant for The Lab Consulting based out of Houston, Texas, where I code next to my partner and two black cats. My work involves teaching - and learning! - something new every day.
+I'm a data enthusiast based out of Houston, Texas, where I code next to my partner and two black cats. 
 
 <!--- credit to https://github.com/alexandresanlim/Badges4-README.md-Profile for the badges -->
 
