@@ -2,7 +2,7 @@
 
 Hi there!
 
-I'm a data enthusiast based out of Houston, Texas, where I code next to my partner and two black cats. 
+I'm a data enthusiast based out of Philadelpha (recently moved from Houston), where I code next to my partner and two black cats. 
 
 <!--- credit to https://github.com/alexandresanlim/Badges4-README.md-Profile for the badges -->
 
