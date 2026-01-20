@@ -1,4 +1,4 @@
-![github cover image made with Canva](githubcoverimage.png)
+![github cover image made with Canva](github_banner_lbh.png)
 
 Hi there!
 
